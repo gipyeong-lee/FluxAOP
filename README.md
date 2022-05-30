@@ -1,2 +1,2 @@
 # FluxAOP
-How to use aop mono for logging
+How to use aop logging for mono/flux
